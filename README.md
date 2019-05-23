@@ -1,5 +1,5 @@
 # Essay Plagiarism Checker
-A simple concpet for a script that takes an essay and checks it for potential plagiarism. 
+A simple concept for a script that takes an essay and checks it for potential plagiarism. 
 
 
 Concepts:
